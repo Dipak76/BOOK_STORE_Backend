@@ -13,8 +13,7 @@ app.use(cors());
 
 const db =
 "mongodb+srv://257deepakyadav:deepak123@cluster0.6nnmf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
-//"mongodb+srv://pujatneralwar:Puja10590@cluster0.dmd1omm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
-  // "mongodb+srv://shaiksuraz50:czPhpDlMZGoilAaJ@cluster0.zm4vqsc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+
 const jwtSecret =
   "e0f90e50d589ab7f4a2d1f6e8b6c2d86d761a1f6d937274fa8b2f98e3d50de5b52b7328b9f1e6e2c2eab9e842d2c4d4d2738d0fa7355bb8fd28cf437a9e2d6d6";
 
